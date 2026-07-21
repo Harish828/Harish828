@@ -406,3 +406,7 @@ Cloud & Systems
         ├── AWS Fundamentals
         ├── Cloud Security
         └── Infrastructure Awareness
+
+<!-- START_SECTION:update -->
+Last updated: Will update automatically
+<!-- END_SECTION:update -->
