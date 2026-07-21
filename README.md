@@ -407,6 +407,8 @@ Cloud & Systems
         ├── Cloud Security
         └── Infrastructure Awareness
 
-<!-- START_SECTION:update -->
-Last updated: Will update automatically
-<!-- END_SECTION:update -->
+## 📅 Last Updated
+
+<!-- LAST_UPDATED -->
+2026-07-21
+<!-- END_LAST_UPDATED -->
