@@ -330,8 +330,10 @@ Connect with Me
 💼 LinkedIn: www.linkedin.com/in/harish-ambati-17575326a
 💻 GitHub: www.github.com/Harish828
 ----------------------------------------------------------------------------------------------------
-Quote
+**Quote**
+
 "Great engineers do more than write code — they build solutions that are secure, purposeful, and ready for the future."
 ----------------------------------------------------------------------------------------------------
-Thanks for Visiting
+**Thanks for Visiting**
+
 If you're interested in software development, cybersecurity, cloud learning, or AI-driven projects, feel free to connect and collaborate.
