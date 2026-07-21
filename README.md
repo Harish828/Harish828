@@ -361,8 +361,8 @@ A SOC-focused automation platform built to detect threats from log analysis, gen
 ## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-harishambati187%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishambati187@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harish-ambati-17575326a)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish828)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/harish-ambati-17575326a?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harish-ambati-17575326a)
+[![GitHub](https://img.shields.io/badge/GitHub-Harish828-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish828)
 
 ---
 
