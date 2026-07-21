@@ -346,22 +346,22 @@ A SOC-focused automation platform built to detect threats from log analysis, gen
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish828&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish828&layout=compact&theme=tokyonight&hide_border=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish828&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish828&layout=compact&theme=tokyonight&hide_border=true)-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harish828&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harish828&theme=tokyo-night)
 
-<!-- Optional trophy section -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=Harish828&theme=tokyonight&no-frame=true&row=1&column=6)
+<!-- Optional trophy section 
+![Trophy](https://github-profile-trophy.vercel.app/?username=Harish828&theme=tokyonight&no-frame=true&row=1&column=6)-->
 
 ---
 
 ## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-harishambati187%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishambati187@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/harish-ambati-17575326a?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harish-ambati-17575326a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish%20Ambati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-ambati-17575326a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Harish828-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish828)
 
 ---
