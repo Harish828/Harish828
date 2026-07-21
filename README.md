@@ -4,9 +4,9 @@
 
 **Aspiring Software Engineer | Cybersecurity Enthusiast | AI/ML Learner | M.Sc. Computer Science Graduate**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=harish828&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Harish828?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/Harish828?affiliations=OWNER%2CCOLLABORATOR&style=flat)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Software%20Roles-success?style=flat)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20AI%2FML-blueviolet?style=flat)
 
