@@ -1,0 +1,26 @@
+name: Daily README Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at midnight UTC
+  workflow_dispatch:     # Allows you to test it manually anytime
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo code
+        uses: actions/checkout@v4
+
+      - name: Inject current date into README
+        run: |
+          CURRENT_DATE=$(date +'%Y-%m-%d')
+          # This script targets the exact lines between the two marker tags
+          sed -i '/<!-- START_SECTION:update -->/,/<!-- END_SECTION:update -->/{//!d;}' README.md
+          sed -i '/<!-- START_SECTION:update -->/a Last updated: '"$CURRENT_DATE" README.md
+
+      - name: Push updated README to repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: automated daily README update"
+          file_pattern: README.md
