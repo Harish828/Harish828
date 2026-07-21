@@ -1,18 +1,36 @@
 # Hi, I'm Ambati Harish 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Cybersecurity+Enthusiast;AI%2FML+Learner;Networking+and+SOC+Automation+Explorer;M.Sc.+Computer+Science+Graduate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Engineer;Cybersecurity+Enthusiast;AI%2FML+Learner;Networking+and+SOC+Automation+Explorer;M.Sc.+Computer+Science+Graduate)
 
 **Aspiring Software Engineer | Cybersecurity Enthusiast | AI/ML Learner | M.Sc. Computer Science Graduate**
 
-I build practical solutions across **software development, cybersecurity, networking, and intelligent systems** with a strong interest in automation, secure application design, and continuous technical growth.
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat)
+![Open to Work](https://img.shields.io/badge/Open%20to-Software%20Roles-success?style=flat)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20AI%2FML-blueviolet?style=flat)
+
+I build practical solutions across **software development, cybersecurity, networking, and intelligent systems** with a strong interest in **automation, secure application design, and continuous technical growth**.
 
 ---
 
 ## About Me
 
-I am an early-career computer science professional with a strong foundation in **Python development, web applications, cybersecurity operations, networking concepts, and AI/ML fundamentals**. My work so far reflects a hands-on approach to solving real problems through projects such as **hospital systems, drone detection, SOC automation, IoT-based warehouse monitoring, and assistive robotics**.
+I am an early-career computer science professional with a strong foundation in **Python development, web applications, cybersecurity operations, networking concepts, and AI/ML fundamentals**. My work reflects a hands-on approach to solving real problems through projects such as **hospital systems, drone detection, SOC automation, IoT-based warehouse monitoring, and assistive robotics**.
 
 I enjoy combining **problem-solving, structured system design, and emerging technologies** to create solutions that are useful, scalable, and secure. I am currently focused on strengthening my capabilities in **software engineering, cloud security, automation, and applied artificial intelligence**.
+
+---
+
+## Quick Snapshot
+
+| Area | Details |
+|---|---|
+| 🎓 Education | M.Sc. in Computer Science |
+| 💻 Core Strengths | Python, Cybersecurity, Web Development, AI/ML |
+| 🔐 Security Focus | SOC Automation, Threat Detection, SIEM/SOAR Workflows |
+| 🌐 Technology Interests | Networking, Cloud Computing, Computer Vision, IoT |
+| 🚀 Career Goal | Become a well-rounded Software Engineer with strong cybersecurity capabilities |
 
 ---
 
@@ -77,11 +95,11 @@ I enjoy combining **problem-solving, structured system design, and emerging tech
 
 ## Featured Projects
 
-### 1) Hospital Management System
+### 1. Hospital Management System
 **Domain:** Web Development  
 **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
 
-**Overview:**  
+**Overview**  
 A web-based hospital management solution designed to streamline administrative and patient-related workflows in a structured digital environment.
 
 **Key Features**
@@ -91,7 +109,7 @@ A web-based hospital management solution designed to streamline administrative a
 - CRUD-based data handling
 - Multi-page web interface for operational efficiency
 
-**What I Learned**
+**Learning Outcome**
 - Full-stack application flow using PHP and MySQL
 - Database-driven web architecture
 - Building practical business logic for real-world use cases
@@ -100,52 +118,52 @@ A web-based hospital management solution designed to streamline administrative a
 **Future Improvements**
 - Role-based access control
 - Analytics dashboard for hospital operations
-- SMS/email appointment reminders
+- SMS and email appointment reminders
 - API integration for scalability
 
 ---
 
-### 2) College Timetable Management System
+### 2. College Timetable Management System
 **Domain:** Object-Oriented Analysis & Design  
 **Technologies:** OOAD, UML, Visual Paradigm
 
-**Overview:**  
+**Overview**  
 A system design project focused on modeling an academic timetable platform using object-oriented principles and UML-based planning.
 
 **Key Features**
 - UML-based system modeling
 - Structured timetable scheduling logic
-- Clear representation of actors, modules, and workflows
+- Representation of actors, modules, and workflows
 - Design-first approach before implementation
 
-**What I Learned**
+**Learning Outcome**
 - Translating requirements into system models
 - Applying OOAD principles to academic scheduling
 - Improving software planning through UML artifacts
 
 **Future Improvements**
-- Convert design into a functional web application
-- Add faculty and classroom conflict detection
-- Build reporting and schedule export features
+- Convert the design into a functional application
+- Add classroom and faculty conflict detection
+- Build schedule export and reporting features
 
 ---
 
-### 3) Smart Warehouse Management System
+### 3. Smart Warehouse Management System
 **Domain:** IoT / Automation  
 **Technologies:** ESP32, RFID, Blynk
 
-**Overview:**  
+**Overview**  
 An IoT-enabled warehouse solution for inventory access control and real-time environmental monitoring.
 
 **Key Features**
 - RFID-based inventory access
 - Real-time monitoring capabilities
-- Connected device communication via ESP32
+- ESP32-powered connected device communication
 - Remote visibility through Blynk
 
-**What I Learned**
+**Learning Outcome**
 - Integrating hardware with software-driven workflows
-- IoT communication patterns
+- Understanding IoT communication patterns
 - Building monitoring-centric systems for operations
 
 **Future Improvements**
@@ -155,61 +173,61 @@ An IoT-enabled warehouse solution for inventory access control and real-time env
 
 ---
 
-### 4) Drone Detection System
+### 4. Drone Detection System
 **Domain:** AI / Computer Vision  
 **Technologies:** Python, YOLOv8, Roboflow
 
-**Overview:**  
+**Overview**  
 A real-time drone detection system developed for security-oriented monitoring using computer vision and a dataset trained on more than 4,000 images.
 
 **Key Features**
 - Real-time object detection
 - Drone-focused training pipeline
-- Security application use case
+- Security-oriented surveillance use case
 - Dataset-assisted model development
 
-**What I Learned**
+**Learning Outcome**
 - Practical computer vision workflow
 - Model training and dataset preparation
-- Applying AI for surveillance and security scenarios
+- Applying AI to surveillance and security scenarios
 
 **Future Improvements**
 - Improve detection accuracy across environments
-- Add alerting and event logging
+- Add event logging and alerting
 - Support multi-object classification and tracking
 
 ---
 
-### 5) Smart Wheelchair
+### 5. Smart Wheelchair
 **Domain:** Robotics / Embedded Systems  
 **Technologies:** Arduino, Joystick Module, Ultrasonic Sensor
 
-**Overview:**  
+**Overview**  
 A safety-oriented assistive robotics project designed to support directional movement control with obstacle awareness.
 
 **Key Features**
 - Joystick-based directional control
-- Obstacle detection using ultrasonic sensing
-- Improved mobility assistance through embedded logic
-- Collision prevention support
+- Ultrasonic obstacle detection
+- Embedded safety support
+- Collision prevention assistance
 
-**What I Learned**
+**Learning Outcome**
 - Embedded system integration
 - Sensor-driven automation
-- Designing technology with user safety in mind
+- Designing user-focused safety systems
 
 **Future Improvements**
 - Add voice control support
-- Introduce autonomous assist mode
+- Introduce autonomous assistance mode
 - Improve battery and motor efficiency
 
 ---
 
-### 6) SOC Automation and Alert Triage Platform
+### 6. SOC Automation and Alert Triage Platform
 **Domain:** Cybersecurity / SOC Automation  
 **Technologies:** Wazuh, TheHive, Shuffle, VirusTotal, Ngrok
 
-**Overview:**  
+**Overview**  
 A SOC-focused automation platform built to detect threats from log analysis, generate cases, and notify users through automated workflows.
 
 **Key Features**
@@ -217,18 +235,18 @@ A SOC-focused automation platform built to detect threats from log analysis, gen
 - Automated case creation
 - Email alerting pipeline
 - Integrated incident triage workflow
-- Toolchain-oriented SOC operations support
+- Practical SOC operations support
 
-**What I Learned**
+**Learning Outcome**
 - Security operations workflow design
 - Alert triage and automation logic
-- Practical use of SIEM, SOAR, and threat intelligence tooling
+- Use of SIEM, SOAR, and threat intelligence tooling
 
 **Future Improvements**
 - Add severity-based orchestration
 - Improve enrichment and false-positive reduction
-- Introduce dashboarding for analyst visibility
-- Expand detection rules for broader threat coverage
+- Introduce dashboards for analyst visibility
+- Expand detection rules for broader coverage
 
 ---
 
@@ -305,35 +323,86 @@ A SOC-focused automation platform built to detect threats from log analysis, gen
 
 ## Current Learning
 
-- **Cybersecurity Automation** — exploring stronger SOC workflows, alert triage, and operational efficiency  
-- **Cloud Computing & Security** — building practical understanding of infrastructure, storage, networking, and secure deployment  
-- **Artificial Intelligence** — strengthening applied ML and computer vision fundamentals  
-- **Python for Real-World Solutions** — using Python in automation, security, and intelligent applications  
-- **Open Source Readiness** — improving project quality, collaboration habits, and maintainable code practices  
+- **Cybersecurity Automation** — exploring stronger SOC workflows, alert triage, and operational efficiency
+- **Cloud Computing & Security** — building practical understanding of infrastructure, storage, networking, and secure deployment
+- **Artificial Intelligence** — strengthening applied ML and computer vision fundamentals
+- **Python for Real-World Solutions** — using Python in automation, security, and intelligent applications
+- **Open Source Readiness** — improving project quality, collaboration habits, and maintainable code practices
 
 ---
 
 ## Goals
 
-- Advance my **Python development** for automation and backend problem-solving
+- Improve my **Python development** for automation and backend problem-solving
 - Build deeper expertise in **SOC automation** and **threat detection workflows**
 - Strengthen my understanding of **cloud security** and deployment models
-- Improve practical skills in **AI-driven security and computer vision applications**
+- Improve practical skills in **AI-driven security** and **computer vision applications**
 - Contribute to impactful **open source** and collaborative engineering projects
-- Grow into a well-rounded **Software Engineer with strong cybersecurity capabilities**
+- Grow into a well-rounded **Software Engineer** with strong cybersecurity capabilities
 
 ---
 
-----------------------------------------------------------------------------------------------------
-Connect with Me
-📧 Email: harishambati187@gmail.com
-💼 LinkedIn: www.linkedin.com/in/harish-ambati-17575326a
-💻 GitHub: www.github.com/Harish828
-----------------------------------------------------------------------------------------------------
-**Quote**
+## GitHub Analytics
 
-"Great engineers do more than write code — they build solutions that are secure, purposeful, and ready for the future."
-----------------------------------------------------------------------------------------------------
-**Thanks for Visiting**
 
-If you're interested in software development, cybersecurity, cloud learning, or AI-driven projects, feel free to connect and collaborate.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish828&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish828&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Harish828&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harish828&theme=tokyo-night)
+
+<!-- Optional trophy section -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=Harish828&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-harishambati187%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishambati187@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harish-ambati-17575326a)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish828)
+
+---
+
+## Developer Snapshot
+
+| Category | Details |
+|---|---|
+| Professional Focus | Software Engineering, Cybersecurity, AI/ML |
+| Strongest Languages | Python, Java, C |
+| Security Stack | Wazuh, TheHive, Shuffle, Sysmon, VirusTotal |
+| Web Stack | PHP, MySQL, HTML, CSS, JavaScript, Bootstrap |
+| Cloud Exposure | AWS Cloud Computing Fundamentals |
+| Systems Exposure | Ubuntu Linux, Virtual Machines, IoT, Embedded Systems |
+| Collaboration Tools | GitHub, VS Code, Eclipse, PyCharm |
+
+---
+
+## Professional Roadmap
+
+```text
+Software Engineering
+        │
+        ├── Advanced Python
+        ├── Secure Application Development
+        ├── Backend Problem Solving
+        │
+Cybersecurity
+        │
+        ├── SOC Automation
+        ├── Threat Hunting
+        ├── SIEM / SOAR Workflows
+        │
+AI / ML
+        │
+        ├── Computer Vision
+        ├── Applied ML Projects
+        ├── Security + AI Use Cases
+        │
+Cloud & Systems
+        │
+        ├── AWS Fundamentals
+        ├── Cloud Security
+        └── Infrastructure Awareness
