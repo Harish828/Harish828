@@ -1,8 +1,8 @@
 # Hi, I'm Ambati Harish 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Engineer;Cybersecurity+Enthusiast;AI%2FML+Learner;Networking+and+SOC+Automation+Explorer;M.Sc.+Computer+Science+Graduate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Cybersecurity+Enthusiast;AI%2FML+Learner;Networking+and+SOC+Automation+Explorer;M.Sc.+Computer+Science+Graduate)
 
-**Aspiring Software Engineer | Cybersecurity Enthusiast | AI/ML Learner | M.Sc. Computer Science Graduate**
+**Cybersecurity Enthusiast | AI/ML Learner | M.Sc. Computer Science Graduate**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harish828&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/Harish828?label=Followers&style=flat)
